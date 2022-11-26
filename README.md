@@ -2,6 +2,7 @@
 
 👋 Hoje Trabalho como FullStack!! 
 - 👀 Contate-me por ederlanbrito@gmail.com
+- Sou um desenvolvedor brasileiro que utiliza React. Atualmente estou cursando bacharelado no curso de Ciencias da Computação e trabalho como Freelancer
 
 <div align="center">
   <a href="https://github.com/littxx">
@@ -25,6 +26,15 @@
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://www.apple.com/ios/"><img height= "35" src= "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+<a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href="https://sass-lang.com/"><img height= "35" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 
     
       
