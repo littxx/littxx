@@ -2,7 +2,7 @@
 
 👋 Hoje Trabalho como FullStack!! 
 - 👀 Contate-me por ederlanbrito@gmail.com
-- Sou um desenvolvedo que utiliza React. Atualmente estou cursando bacharelado no curso de Ciencias da Computação e trabalho como Freelancer
+- Sou um desenvolvedo que utiliza React, Angular e Mobile. Atualmente estou cursando bacharelado no curso de Ciencias da Computação e trabalho como Freelancer
 
 <div align="center">
   <a href="https://github.com/littxx">
