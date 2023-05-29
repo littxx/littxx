@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Ederlan
 
-👋 Hoje Trabalho como FullStack!! 
-- 👀 Contate-me por ederlanbrito@gmail.com
+ Hoje Trabalho como FullStack!! 
+-  Contate-me por ederlanbrito@gmail.com
 - Sou um desenvolvedor que utiliza React, Angular e  Vue.
 
 <div align="center">
