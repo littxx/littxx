@@ -2,7 +2,7 @@
 
  Hoje Trabalho como FullStack!! 
 -  Contate-me por ederlanbrito@gmail.com
-- Sou um desenvolvedor que utiliza React, Angular e  Vue.
+- Sou um desenvolvedor que utiliza Java, Node, React, Typescript e Mobile.
 
 <div align="center">
   <a href="https://github.com/littxx">
