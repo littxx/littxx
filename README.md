@@ -1,6 +1,7 @@
 ## Ola! Eu sou o Ederlan
 
- Hoje Trabalho como FullStack!! 
+ Hoje Trabalho como Desenvolvedor !!!
+ 
 -  Contate-me por ederlanbrito@gmail.com
 - Sou um desenvolvedor que utiliza Java, Node, React, Typescript e Mobile.
 
